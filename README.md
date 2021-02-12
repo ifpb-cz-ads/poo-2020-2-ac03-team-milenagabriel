@@ -1,5 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=364961&assignment_repo_type=GroupAssignmentRepo)
 
+Responsável pelos exercícios BM 1, 2, 3 4: Gabriel Alves
+
 Respostas da questão 1)
 - a) F - fora do limite aceitável pelo tipo byte
 - b) V - Compila e executa normalmente, apesar de não ser recomendável, por convenção, utilizar caracteres especiais em nomes de variáveis
@@ -10,4 +12,8 @@ Respostas da questão 1)
 - g) F - caracteres não são atribuíveis à strings
 - h) V
 - i) F - deve-se fazer o casting antes de atribuir um ponto flutuante (double, por padrão) a um float
+<<<<<<< HEAD
 - j) F
+=======
+- j) F
+>>>>>>> 91ab9a360c303ca2003491cf31e9c6ec73225d12
