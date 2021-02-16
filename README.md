@@ -4,7 +4,11 @@ Responsável pelos exercícios do primeiro livro, questões 2, 3 e 4: Milena Lin
 
 
 
+<<<<<<< HEAD
 Responsável pelos exercícios BM 1, 2, 3 4: Gabriel Alves
+=======
+Responsável pelos exercícios BM 1 (README.md), 2, 3 4: Gabriel Alves
+>>>>>>> 9e4984cb0da1bc05de6cde2daeda574bdf3ea912
 
 Respostas da questão 1)
 - a) F - fora do limite aceitável pelo tipo byte
@@ -17,5 +21,3 @@ Respostas da questão 1)
 - h) V
 - i) F - deve-se fazer o casting antes de atribuir um ponto flutuante (double, por padrão) a um float
 - j) F
-
-
