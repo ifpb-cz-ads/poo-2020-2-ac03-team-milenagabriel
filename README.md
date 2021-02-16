@@ -4,7 +4,7 @@ Responsável pelos exercícios do primeiro livro, questões 2, 3 e 4: Milena Lin
 
 
 
-Responsável pelos exercícios BM 1, 2, 3 4: Gabriel Alves
+Responsável pelos exercícios BM 1 (READ.me), 2, 3 4: Gabriel Alves
 
 Respostas da questão 1)
 - a) F - fora do limite aceitável pelo tipo byte
